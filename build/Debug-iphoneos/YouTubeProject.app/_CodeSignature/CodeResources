@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>files</key>
+	<dict>
+		<key>PkgInfo</key>
+		<data>
+		n57qDP4tZfLD1rCS43W0B4LQjzE=
+		</data>
+		<key>YouTubeProjectViewController.nib</key>
+		<data>
+		QeHffcYY8PSa/YT3Oot8yOaiEyo=
+		</data>
+		<key>blowUp1.mp4</key>
+		<data>
+		+iplLSfuYZQ+bdbcY3VzhA1fHdw=
+		</data>
+		<key>ding.mp3</key>
+		<data>
+		eYNpQ6kvcRGtayEwvBIuEKOrayI=
+		</data>
+		<key>ding.wav</key>
+		<data>
+		8CM4ia4PpEM5ZbQlwU4mvT3PDMQ=
+		</data>
+		<key>embedded.mobileprovision</key>
+		<data>
+		ILcZ5/o3BtoUNEKZerh0l2SDqys=
+		</data>
+		<key>icn_star_empty_11x11.gif</key>
+		<data>
+		HP9OXbnLKrfHmgS1RyOKSpXzMTo=
+		</data>
+		<key>icn_star_full_11x11.gif</key>
+		<data>
+		mIbvTIKSBLWdmN7jkt3kE9lJC/Q=
+		</data>
+		<key>icon.png</key>
+		<data>
+		/+muep9Kmi3K5qlRwODbrGca9rA=
+		</data>
+		<key>video icon.jpg</key>
+		<data>
+		a7SToW7J+6ocm5j/ea+h4EhiESM=
+		</data>
+	</dict>
+	<key>rules</key>
+	<dict>
+		<key>.*</key>
+		<true/>
+		<key>Info.plist</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
+		<key>ResourceRules.plist</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>100</real>
+		</dict>
+	</dict>
+</dict>
+</plist>
