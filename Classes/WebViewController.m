@@ -161,7 +161,7 @@
 	passedURL = [passedURL stringByTrimmingCharactersInSet:[NSCharacterSet whitespaceAndNewlineCharacterSet]];
 	NSLog(@"passedURL was called %@", passedURL);
 	urlField.text = passedURL;
-    /*urlField.text = @"http://www.apple.com";*/
+    urlField.text = @"http://www.apple.com";*/
 	/*
 	urlField.backgroundColor = [UIColor whiteColor];
 	urlField.autoresizingMask = UIViewAutoresizingFlexibleWidth;

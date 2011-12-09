@@ -10,7 +10,7 @@
 
 //CUSTOMIZABLE CONSTANTS
 #define kNavigationBarTitle		@"YouTube Table"
-#define kYouTubeUsername		@"YOUR_YOUTUBE_USERID_HERE"
+#define kYouTubeUsername		@"ENTER_YOUTUBE_USERNAME_HERE"
 #define kItemTitleFont			@"TrebuchetMS-Bold"
 #define kItemTitleColor			[UIColor blackColor]
 #define kItemTitleFontSize		14.0f
@@ -54,6 +54,8 @@
     return self;
 }
 */
+
+// loadWebView is a custom Method - called from modCell/UITableViewCell customizer
 - (UIWebView *)loadWebView:(NSString *)passedURL {
 	
 	CGRect webFrame = CGRectMake(0.0f, 0.0f, 120.0f, 75.0f);
@@ -114,7 +116,7 @@
 		mMoviePlayer = [[MPMoviePlayerController alloc] initWithContentURL:movieURL];
 		
 		mMoviePlayer.scalingMode = MPMovieScalingModeAspectFill; 
-		mMoviePlayer.movieControlMode = MPMovieControlModeDefault;
+		//mMoviePlayer.movieControlMode = MPMovieControlModeDefault;  // movieControlMode is deprecated
 		
 		
 		// Register to receive a notification when the movie has finished playing. 	
