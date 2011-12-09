@@ -1,6 +1,5 @@
 # This is an Objective-C project that utilizes the Google API to retrieve Youtube JSON video feeds and displays them in a TableViewController.  The code makes use of SBJSON Package parser, NSURL to retrieve it, and custom UIWebViews to display the UITableCell based on the Youtube parameters.  
 
 RELEASE NOTES:
-v1.0 - Uploaded to Github.  Tested and works on iPhone 4.0 and below.  Could still use some code cleanup.  Has not been tested on version 4.x or 5.x
-
+v1.0 - Uploaded to Github.  Tested and works on iOS 5.0.
 Give credit where due! Thanks!

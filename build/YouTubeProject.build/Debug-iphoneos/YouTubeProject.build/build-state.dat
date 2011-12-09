@@ -1,0 +1,581 @@
+TYouTubeProject
+v4
+r1
+cCheck dependencies
+cCpResource /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/ResourceRules.plist build/Debug-iphoneos/YouTubeProject.app/ResourceRules.plist
+cProcessInfoPlistFile /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/Debug-iphoneos/YouTubeProject.app/Info.plist YouTubeProject-Info.plist
+cCompileXIB /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/YouTubeProjectViewController.xib
+cCopyPNGFile /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/Debug-iphoneos/YouTubeProject.app/icon.png icon.png
+cCpResource "video icon.jpg" "build/Debug-iphoneos/YouTubeProject.app/video icon.jpg"
+cCpResource blowUp1.mp4 build/Debug-iphoneos/YouTubeProject.app/blowUp1.mp4
+cCpResource icn_star_full_11x11.gif build/Debug-iphoneos/YouTubeProject.app/icn_star_full_11x11.gif
+cCpResource ding.mp3 build/Debug-iphoneos/YouTubeProject.app/ding.mp3
+cCpResource icn_star_empty_11x11.gif build/Debug-iphoneos/YouTubeProject.app/icn_star_empty_11x11.gif
+cProcessPCH /var/folders/yC/yCxT8PvWF0yd73b-JmCFbk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/YouTubeProject_Prefix-favylrpockfimjftejqeglvtmxsu/YouTubeProject_Prefix.pch.pth YouTubeProject_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/YouTubeProjectViewController.o /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/Classes/YouTubeProjectViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/YouTubeTableViewController.o /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/Classes/YouTubeTableViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/NSString+SBJSON.o /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/JSON/NSString+SBJSON.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/main.o /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/YouTubeProjectAppDelegate.o /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/Classes/YouTubeProjectAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/NSObject+SBJSON.o /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/JSON/NSObject+SBJSON.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/SBJSON.o /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/JSON/SBJSON.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/SBJsonBase.o /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/JSON/SBJsonBase.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/SBJsonWriter.o /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/JSON/SBJsonWriter.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/SBJsonParser.o /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/JSON/SBJsonParser.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/WebViewController.o /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/Classes/WebViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/Debug-iphoneos/YouTubeProject.app/YouTubeProject normal armv7
+cGenerateDSYMFile /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/Debug-iphoneos/YouTubeProject.app.dSYM /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/Debug-iphoneos/YouTubeProject.app/YouTubeProject
+cProcessProductPackaging "/Users/ryannewsome/Library/MobileDevice/Provisioning Profiles/71973703-0265-4290-9421-786A4199E74B.mobileprovision" /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/Debug-iphoneos/YouTubeProject.app/embedded.mobileprovision
+cProcessProductPackaging "/Users/ryannewsome/Library/MobileDevice/Provisioning Profiles/71973703-0265-4290-9421-786A4199E74B.mobileprovision" /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/Debug-iphoneos/YouTubeProject.app/embedded.mobileprovision
+cTouch /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/Debug-iphoneos/YouTubeProject.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/Entitlements.plist /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/YouTubeProject.xcent
+cCodeSign /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/Debug-iphoneos/YouTubeProject.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk
+c000000004E7840290000000000000110
+t1316503593
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/Entitlements.plist
+c000000004E5C595800000000000001A7
+t1314675032
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/ResourceRules.plist
+c000000004E5C595800000000000001E5
+t1314675032
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004E7807DB000000000015F8A0
+t1316489179
+s1439904
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004E72F28700000000003AB0A0
+t1316156039
+s3846304
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004E72F3440000000000529540
+t1316156228
+s5412160
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004E72F3370000000000001534
+t1316156215
+s5428
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c000000004E780B2400000000002900F0
+t1316490020
+s2687216
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000004E72F29300000000000C33E0
+t1316156051
+s799712
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004E7808770000000000000BCB
+t1316489335
+s3019
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004E7808C7000000000078BE50
+t1316489415
+s7913040
+
+N/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/Classes/WebViewController.m
+c000000004EE13C770000000000001ED3
+t1323383927
+s7891
+
+N/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/Classes/YouTubeProjectAppDelegate.m
+c000000004EE13C7700000000000002B6
+t1323383927
+s694
+
+N/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/Classes/YouTubeProjectViewController.m
+c000000004EE13C770000000000000599
+t1323383927
+s1433
+
+N/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/Classes/YouTubeTableViewController.m
+c000000004EE13C770000000000005BC4
+t1323383927
+s23492
+
+N/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/JSON/NSObject+SBJSON.m
+c000000004EE13C77000000000000089C
+t1323383927
+s2204
+
+N/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/JSON/NSString+SBJSON.m
+c000000004EE13C77000000000000087C
+t1323383927
+s2172
+
+N/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/JSON/SBJSON.m
+c000000004EE13C770000000000001ABC
+t1323383927
+s6844
+
+N/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/JSON/SBJsonBase.m
+c000000004EE13C770000000000000AC1
+t1323383927
+s2753
+
+N/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/JSON/SBJsonParser.m
+c000000004EE13C7700000000000036CF
+t1323383927
+s14031
+
+N/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/JSON/SBJsonWriter.m
+c000000004EE13C770000000000001E83
+t1323383927
+s7811
+
+N/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/YouTubeProjectViewController.xib
+c000000004EE13C7700000000000018BE
+t1323383927
+s6334
+
+N/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/YouTubeProject_Prefix.pch
+c000000004EE13C7700000000000000C5
+t1323383927
+s197
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/blowUp1.mp4
+c000000004EE13C77000000000010CFBE
+t1323383927
+s1101758
+
+N/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/Debug-iphoneos/YouTubeProject.app
+t1323383927
+s578
+
+N/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/Debug-iphoneos/YouTubeProject.app.dSYM
+t1323383927
+s102
+
+N/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/Debug-iphoneos/YouTubeProject.app/Info.plist
+t1323383927
+s589
+
+N/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/Debug-iphoneos/YouTubeProject.app/PkgInfo
+t1323383927
+s8
+
+N/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/Debug-iphoneos/YouTubeProject.app/ResourceRules.plist
+t1323383927
+s485
+
+N/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/Debug-iphoneos/YouTubeProject.app/YouTubeProject
+t1323383927
+s93792
+
+N/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/Debug-iphoneos/YouTubeProject.app/YouTubeProjectViewController.nib
+t1323383927
+s1151
+
+N/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/Debug-iphoneos/YouTubeProject.app/blowUp1.mp4
+t1323383927
+s1101758
+
+N/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/Debug-iphoneos/YouTubeProject.app/ding.mp3
+t1323383927
+s139523
+
+N/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/Debug-iphoneos/YouTubeProject.app/embedded.mobileprovision
+t1323383927
+s7153
+
+N/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/Debug-iphoneos/YouTubeProject.app/icn_star_empty_11x11.gif
+t1323383927
+s101
+
+N/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/Debug-iphoneos/YouTubeProject.app/icn_star_full_11x11.gif
+t1323383927
+s186
+
+N/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/Debug-iphoneos/YouTubeProject.app/icon.png
+t1323383927
+s4857
+
+N/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/Debug-iphoneos/YouTubeProject.app/video icon.jpg
+t1323383927
+s13235
+
+N/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/NSObject+SBJSON.o
+t2
+s0
+
+N/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/NSString+SBJSON.o
+t2
+s0
+
+N/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/SBJSON.o
+t2
+s0
+
+N/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/SBJsonBase.o
+t2
+s0
+
+N/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/SBJsonParser.o
+t2
+s0
+
+N/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/SBJsonWriter.o
+t2
+s0
+
+N/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/WebViewController.o
+t2
+s0
+
+N/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/YouTubeProject.LinkFileList
+c000000004EE1588E0000000000000706
+t1323391118
+s1798
+
+N/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/YouTubeProjectAppDelegate.o
+t2
+s0
+
+N/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/YouTubeProjectViewController.o
+t2
+s0
+
+N/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/YouTubeTableViewController.o
+t2
+s0
+
+N/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/YouTubeProject.xcent
+t1323383927
+s327
+
+N/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/ding.mp3
+c000000004EE13C770000000000022103
+t1323383927
+s139523
+
+N/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/icn_star_empty_11x11.gif
+c000000004EE13C770000000000000065
+t1323383927
+s101
+
+N/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/icn_star_full_11x11.gif
+c000000004EE13C7700000000000000BA
+t1323383927
+s186
+
+N/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/icon.png
+c000000004EE13C77000000000000127E
+t1323383927
+s4734
+
+N/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/main.m
+c000000004EE13C770000000000000184
+t1323383927
+s388
+
+N/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/video icon.jpg
+c000000004EE13C7700000000000033B3
+t1323383927
+s13235
+
+N/Users/ryannewsome/Library/MobileDevice/Provisioning Profiles/71973703-0265-4290-9421-786A4199E74B.mobileprovision
+c000000004EE04E5D0000000000001D06
+t1323322973
+s7430
+
+N/var/folders/yC/yCxT8PvWF0yd73b-JmCFbk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/YouTubeProject_Prefix-favylrpockfimjftejqeglvtmxsu/YouTubeProject_Prefix.pch.pth
+t2
+s0
+
+NYouTubeProject-Info.plist
+c000000004EE13C770000000000000356
+t1323383927
+s854
+
+CBuild AST from /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/Classes/WebViewController.m
+r0
+
+CBuild AST from /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/Classes/YouTubeProjectAppDelegate.m
+r0
+
+CBuild AST from /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/Classes/YouTubeProjectViewController.m
+r0
+
+CBuild AST from /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/Classes/YouTubeTableViewController.m
+r0
+
+CBuild AST from /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/JSON/NSObject+SBJSON.m
+r0
+
+CBuild AST from /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/JSON/NSString+SBJSON.m
+r0
+
+CBuild AST from /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/JSON/SBJSON.m
+r0
+
+CBuild AST from /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/JSON/SBJsonBase.m
+r0
+
+CBuild AST from /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/JSON/SBJsonParser.m
+r0
+
+CBuild AST from /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/JSON/SBJsonWriter.m
+r0
+
+CBuild AST from /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies93e4d50d9091b441^0801210e9091b441^---0#1#0#--18"Check dependencies36"25674BDC-599E-490B-96EB-8889A7B212A6-
+
+CCodeSign /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/Debug-iphoneos/YouTubeProject.app
+s345083926.129314
+e345083945.379230
+r1
+xCodeSign
+x/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/Debug-iphoneos/YouTubeProject.app
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"CodeSign build/Debug-iphoneos/YouTubeProject.app093721169091b441^57d08c299091b441^---0#0#0#-19%DVTDocumentLocation2@117"file://localhost/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/Debug-iphoneos/YouTubeProject.app/0000000000000000^827"CodeSign build/Debug-iphoneos/YouTubeProject.app    cd /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController    setenv CODESIGN_ALLOCATE /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign --force --sign "iPhone Developer: James Nguyen (EGZ6QVKY4B)" --resource-rules=/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/Debug-iphoneos/YouTubeProject.app/ResourceRules.plist --entitlements /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/YouTubeProject.xcent /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/Debug-iphoneos/YouTubeProject.app36"8D2E9FC0-EF97-4A1B-9F1C-400896FF7F69-
+
+CCompileC build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/NSObject+SBJSON.o /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/JSON/NSObject+SBJSON.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s345083923.554811
+e345083923.601584
+r1
+xCompileC
+xbuild/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/NSObject+SBJSON.o
+x/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/JSON/NSObject+SBJSON.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/JSON/NSObject+SBJSON.m37378e139091b441^8a58c0139091b441^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/JSON/NSObject+SBJSON.m0000000000000000^2883"CompileC build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/NSObject+SBJSON.o JSON/NSObject+SBJSON.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -fvisibility=hidden -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/YouTubeProject-generated-files.hmap -I/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/YouTubeProject-own-target-headers.hmap -I/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/YouTubeProject-all-target-headers.hmap -iquote /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/YouTubeProject-project-headers.hmap -I/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/Debug-iphoneos/include -I/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/DerivedSources/armv7 -I/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/DerivedSources -F/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/Debug-iphoneos -include /var/folders/yC/yCxT8PvWF0yd73b-JmCFbk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/YouTubeProject_Prefix-favylrpockfimjftejqeglvtmxsu/YouTubeProject_Prefix.pch -MMD -MT dependencies -MF /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/NSObject+SBJSON.d -c /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/JSON/NSObject+SBJSON.m -o /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/NSObject+SBJSON.o36"285BD210-B0DC-4C96-86E3-919F156A080C-
+
+CCompileC build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/NSString+SBJSON.o /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/JSON/NSString+SBJSON.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s345083922.649518
+e345083923.427226
+r1
+xCompileC
+xbuild/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/NSString+SBJSON.o
+x/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/JSON/NSString+SBJSON.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/JSON/NSString+SBJSON.mc170a6129091b441^e15e6d139091b441^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/JSON/NSString+SBJSON.m0000000000000000^2883"CompileC build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/NSString+SBJSON.o JSON/NSString+SBJSON.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -fvisibility=hidden -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/YouTubeProject-generated-files.hmap -I/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/YouTubeProject-own-target-headers.hmap -I/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/YouTubeProject-all-target-headers.hmap -iquote /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/YouTubeProject-project-headers.hmap -I/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/Debug-iphoneos/include -I/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/DerivedSources/armv7 -I/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/DerivedSources -F/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/Debug-iphoneos -include /var/folders/yC/yCxT8PvWF0yd73b-JmCFbk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/YouTubeProject_Prefix-favylrpockfimjftejqeglvtmxsu/YouTubeProject_Prefix.pch -MMD -MT dependencies -MF /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/NSString+SBJSON.d -c /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/JSON/NSString+SBJSON.m -o /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/NSString+SBJSON.o36"1DDC5A4A-0A1E-421A-A031-61BA0C831324-
+
+CCompileC build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/SBJSON.o /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/JSON/SBJSON.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s345083923.602896
+e345083923.718662
+r1
+xCompileC
+xbuild/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/SBJSON.o
+x/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/JSON/SBJSON.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/JSON/SBJSON.m7f839a139091b441^b471c0139091b441^---0#0#0#-19%DVTDocumentLocation2@90"file://localhost/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/JSON/SBJSON.m0000000000000000^2838"CompileC build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/SBJSON.o JSON/SBJSON.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -fvisibility=hidden -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/YouTubeProject-generated-files.hmap -I/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/YouTubeProject-own-target-headers.hmap -I/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/YouTubeProject-all-target-headers.hmap -iquote /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/YouTubeProject-project-headers.hmap -I/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/Debug-iphoneos/include -I/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/DerivedSources/armv7 -I/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/DerivedSources -F/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/Debug-iphoneos -include /var/folders/yC/yCxT8PvWF0yd73b-JmCFbk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/YouTubeProject_Prefix-favylrpockfimjftejqeglvtmxsu/YouTubeProject_Prefix.pch -MMD -MT dependencies -MF /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/SBJSON.d -c /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/JSON/SBJSON.m -o /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/SBJSON.o36"BB175783-1A0C-4B95-A830-71F31FD04904-
+
+CCompileC build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/SBJsonBase.o /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/JSON/SBJsonBase.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s345083923.605538
+e345083923.718657
+r1
+xCompileC
+xbuild/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/SBJsonBase.o
+x/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/JSON/SBJsonBase.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/JSON/SBJsonBase.m3f389b139091b441^486bc0139091b441^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/JSON/SBJsonBase.m0000000000000000^2858"CompileC build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/SBJsonBase.o JSON/SBJsonBase.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -fvisibility=hidden -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/YouTubeProject-generated-files.hmap -I/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/YouTubeProject-own-target-headers.hmap -I/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/YouTubeProject-all-target-headers.hmap -iquote /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/YouTubeProject-project-headers.hmap -I/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/Debug-iphoneos/include -I/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/DerivedSources/armv7 -I/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/DerivedSources -F/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/Debug-iphoneos -include /var/folders/yC/yCxT8PvWF0yd73b-JmCFbk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/YouTubeProject_Prefix-favylrpockfimjftejqeglvtmxsu/YouTubeProject_Prefix.pch -MMD -MT dependencies -MF /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/SBJsonBase.d -c /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/JSON/SBJsonBase.m -o /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/SBJsonBase.o36"A29C5AEB-E7E8-4C64-9612-E3E244BB43BF-
+
+CCompileC build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/SBJsonParser.o /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/JSON/SBJsonParser.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s345083923.719980
+e345083923.843442
+r1
+xCompileC
+xbuild/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/SBJsonParser.o
+x/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/JSON/SBJsonParser.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/JSON/SBJsonParser.m0c75b8139091b441^eeecd7139091b441^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/JSON/SBJsonParser.m0000000000000000^2868"CompileC build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/SBJsonParser.o JSON/SBJsonParser.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -fvisibility=hidden -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/YouTubeProject-generated-files.hmap -I/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/YouTubeProject-own-target-headers.hmap -I/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/YouTubeProject-all-target-headers.hmap -iquote /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/YouTubeProject-project-headers.hmap -I/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/Debug-iphoneos/include -I/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/DerivedSources/armv7 -I/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/DerivedSources -F/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/Debug-iphoneos -include /var/folders/yC/yCxT8PvWF0yd73b-JmCFbk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/YouTubeProject_Prefix-favylrpockfimjftejqeglvtmxsu/YouTubeProject_Prefix.pch -MMD -MT dependencies -MF /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/SBJsonParser.d -c /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/JSON/SBJsonParser.m -o /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/SBJsonParser.o36"BE4A70CB-1207-4EF9-AB8A-DECBA3A1D107-
+
+CCompileC build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/SBJsonWriter.o /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/JSON/SBJsonWriter.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s345083923.719978
+e345083923.826466
+r1
+xCompileC
+xbuild/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/SBJsonWriter.o
+x/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/JSON/SBJsonWriter.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/JSON/SBJsonWriter.m4b76b8139091b441^a794d3139091b441^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/JSON/SBJsonWriter.m0000000000000000^2868"CompileC build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/SBJsonWriter.o JSON/SBJsonWriter.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -fvisibility=hidden -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/YouTubeProject-generated-files.hmap -I/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/YouTubeProject-own-target-headers.hmap -I/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/YouTubeProject-all-target-headers.hmap -iquote /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/YouTubeProject-project-headers.hmap -I/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/Debug-iphoneos/include -I/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/DerivedSources/armv7 -I/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/DerivedSources -F/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/Debug-iphoneos -include /var/folders/yC/yCxT8PvWF0yd73b-JmCFbk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/YouTubeProject_Prefix-favylrpockfimjftejqeglvtmxsu/YouTubeProject_Prefix.pch -MMD -MT dependencies -MF /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/SBJsonWriter.d -c /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/JSON/SBJsonWriter.m -o /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/SBJsonWriter.o36"F5DEF0F7-AA86-4470-8B4D-DD5B2A94A052-
+
+CCompileC build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/WebViewController.o /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/Classes/WebViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s345083923.827719
+e345083923.987029
+r1
+xCompileC
+xbuild/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/WebViewController.o
+x/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/Classes/WebViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/Classes/WebViewController.m:164:5: warning: '/*' within block comment [-Wcomment,2]
+o     /*urlField.text = @"http://www.apple.com";*/
+o     ^
+o1 warning generated.
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/Classes/WebViewController.m7504d4139091b441^4faffc139091b441^-223"/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/Classes/WebViewController.m:164:5: warning: '/*' within block comment [-Wcomment,2]     /*urlField.text = @"http://www.apple.com";*/     ^1 warning generated.1(21%IDEActivityLogMessage2@25"'/*' within block comment-345083923#0#145#-1#-23%DVTTextDocumentLocation3@104"file://localhost/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/Classes/WebViewController.m0000000000000000^163#4#163#4#18446744073709551615#0#29"Lexical or Preprocessor Issue--0#0#0#-19%DVTDocumentLocation4@104"file://localhost/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/Classes/WebViewController.m0000000000000000^2899"CompileC build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/WebViewController.o Classes/WebViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -fvisibility=hidden -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/YouTubeProject-generated-files.hmap -I/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/YouTubeProject-own-target-headers.hmap -I/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/YouTubeProject-all-target-headers.hmap -iquote /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/YouTubeProject-project-headers.hmap -I/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/Debug-iphoneos/include -I/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/DerivedSources/armv7 -I/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/DerivedSources -F/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/Debug-iphoneos -include /var/folders/yC/yCxT8PvWF0yd73b-JmCFbk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/YouTubeProject_Prefix-favylrpockfimjftejqeglvtmxsu/YouTubeProject_Prefix.pch -MMD -MT dependencies -MF /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/WebViewController.d -c /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/Classes/WebViewController.m -o /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/WebViewController.o36"C56D3BD4-2E45-4D6C-91F2-123FF3E79560-
+
+CCompileC build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/YouTubeProjectAppDelegate.o /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/Classes/YouTubeProjectAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s345083923.464987
+e345083923.604300
+r1
+xCompileC
+xbuild/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/YouTubeProjectAppDelegate.o
+x/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/Classes/YouTubeProjectAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/Classes/YouTubeProjectAppDelegate.m9f5877139091b441^e562c0139091b441^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/Classes/YouTubeProjectAppDelegate.m0000000000000000^2939"CompileC build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/YouTubeProjectAppDelegate.o Classes/YouTubeProjectAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -fvisibility=hidden -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/YouTubeProject-generated-files.hmap -I/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/YouTubeProject-own-target-headers.hmap -I/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/YouTubeProject-all-target-headers.hmap -iquote /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/YouTubeProject-project-headers.hmap -I/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/Debug-iphoneos/include -I/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/DerivedSources/armv7 -I/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/DerivedSources -F/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/Debug-iphoneos -include /var/folders/yC/yCxT8PvWF0yd73b-JmCFbk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/YouTubeProject_Prefix-favylrpockfimjftejqeglvtmxsu/YouTubeProject_Prefix.pch -MMD -MT dependencies -MF /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/YouTubeProjectAppDelegate.d -c /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/Classes/YouTubeProjectAppDelegate.m -o /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/YouTubeProjectAppDelegate.o36"3D26D251-C46F-4F9A-AE15-7BD848D2052E-
+
+CCompileC build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/YouTubeProjectViewController.o /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/Classes/YouTubeProjectViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s345083922.649484
+e345083923.463608
+r1
+xCompileC
+xbuild/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/YouTubeProjectViewController.o
+x/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/Classes/YouTubeProjectViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compile /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/Classes/YouTubeProjectViewController.me76fa6129091b441^10b076139091b441^---0#0#0#-19%DVTDocumentLocation2@115"file://localhost/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/Classes/YouTubeProjectViewController.m0000000000000000^2954"CompileC build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/YouTubeProjectViewController.o Classes/YouTubeProjectViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -fvisibility=hidden -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/YouTubeProject-generated-files.hmap -I/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/YouTubeProject-own-target-headers.hmap -I/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/YouTubeProject-all-target-headers.hmap -iquote /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/YouTubeProject-project-headers.hmap -I/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/Debug-iphoneos/include -I/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/DerivedSources/armv7 -I/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/DerivedSources -F/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/Debug-iphoneos -include /var/folders/yC/yCxT8PvWF0yd73b-JmCFbk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/YouTubeProject_Prefix-favylrpockfimjftejqeglvtmxsu/YouTubeProject_Prefix.pch -MMD -MT dependencies -MF /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/YouTubeProjectViewController.d -c /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/Classes/YouTubeProjectViewController.m -o /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/YouTubeProjectViewController.o36"03D19503-3C2A-496C-A370-0012A2847A68-
+
+CCompileC build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/YouTubeTableViewController.o /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/Classes/YouTubeTableViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s345083922.649504
+e345083923.552843
+r1
+xCompileC
+xbuild/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/YouTubeTableViewController.o
+x/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/Classes/YouTubeTableViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/Classes/YouTubeTableViewController.m:117:16: warning: 'movieControlMode' is deprecated [-Wdeprecated-declarations,8]
+o                 mMoviePlayer.movieControlMode = MPMovieControlModeDefault;
+o                              ^
+o/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/Classes/YouTubeTableViewController.m:117:16: warning: 'setMovieControlMode:' is deprecated [-Wdeprecated-declarations,8]
+o2 warnings generated.
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/Classes/YouTubeTableViewController.m446ea6129091b441^b4ab90139091b441^-490"/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/Classes/YouTubeTableViewController.m:117:16: warning: 'movieControlMode' is deprecated [-Wdeprecated-declarations,8]                 mMoviePlayer.movieControlMode = MPMovieControlModeDefault;                              ^/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/Classes/YouTubeTableViewController.m:117:16: warning: 'setMovieControlMode:' is deprecated [-Wdeprecated-declarations,8]2 warnings generated.2(21%IDEActivityLogMessage2@32"'movieControlMode' is deprecated-345083923#0#178#-1#-23%DVTTextDocumentLocation3@113"file://localhost/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/Classes/YouTubeTableViewController.m0000000000000000^116#15#116#15#18446744073709551615#0#12"Deprecations--2@36"'setMovieControlMode:' is deprecated-345083923#286#182#-1#-3@113"file://localhost/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/Classes/YouTubeTableViewController.m0000000000000000^116#15#116#15#18446744073709551615#0#12"Deprecations--0#0#0#-19%DVTDocumentLocation4@113"file://localhost/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/Classes/YouTubeTableViewController.m0000000000000000^2944"CompileC build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/YouTubeTableViewController.o Classes/YouTubeTableViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -fvisibility=hidden -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/YouTubeProject-generated-files.hmap -I/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/YouTubeProject-own-target-headers.hmap -I/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/YouTubeProject-all-target-headers.hmap -iquote /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/YouTubeProject-project-headers.hmap -I/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/Debug-iphoneos/include -I/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/DerivedSources/armv7 -I/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/DerivedSources -F/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/Debug-iphoneos -include /var/folders/yC/yCxT8PvWF0yd73b-JmCFbk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/YouTubeProject_Prefix-favylrpockfimjftejqeglvtmxsu/YouTubeProject_Prefix.pch -MMD -MT dependencies -MF /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/YouTubeTableViewController.d -c /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/Classes/YouTubeTableViewController.m -o /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/YouTubeTableViewController.o36"0A6C1382-CACE-4C0A-8D1E-06104D65DDE5-
+
+CCompileC build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/main.o /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s345083922.649531
+e345083923.425802
+r1
+xCompileC
+xbuild/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/main.o
+x/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/main.m446ea6129091b441^ef026d139091b441^---0#0#0#-19%DVTDocumentLocation2@83"file://localhost/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/main.m0000000000000000^2818"CompileC build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/main.o main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -fvisibility=hidden -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/YouTubeProject-generated-files.hmap -I/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/YouTubeProject-own-target-headers.hmap -I/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/YouTubeProject-all-target-headers.hmap -iquote /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/YouTubeProject-project-headers.hmap -I/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/Debug-iphoneos/include -I/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/DerivedSources/armv7 -I/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/DerivedSources -F/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/Debug-iphoneos -include /var/folders/yC/yCxT8PvWF0yd73b-JmCFbk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/YouTubeProject_Prefix-favylrpockfimjftejqeglvtmxsu/YouTubeProject_Prefix.pch -MMD -MT dependencies -MF /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/main.d -c /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/main.m -o /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/main.o36"40C84407-8542-464E-BEE9-E55A4B6B4074-
+
+CCompileXIB /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/YouTubeProjectViewController.xib
+r0
+
+CCopyPNGFile /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/Debug-iphoneos/YouTubeProject.app/icon.png icon.png
+r0
+
+CCpResource "video icon.jpg" "build/Debug-iphoneos/YouTubeProject.app/video icon.jpg"
+r0
+
+CCpResource /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/ResourceRules.plist build/Debug-iphoneos/YouTubeProject.app/ResourceRules.plist
+r0
+
+CCpResource blowUp1.mp4 build/Debug-iphoneos/YouTubeProject.app/blowUp1.mp4
+r0
+
+CCpResource ding.mp3 build/Debug-iphoneos/YouTubeProject.app/ding.mp3
+r0
+
+CCpResource icn_star_empty_11x11.gif build/Debug-iphoneos/YouTubeProject.app/icn_star_empty_11x11.gif
+r0
+
+CCpResource icn_star_full_11x11.gif build/Debug-iphoneos/YouTubeProject.app/icn_star_full_11x11.gif
+r0
+
+CGenerateDSYMFile /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/Debug-iphoneos/YouTubeProject.app.dSYM /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/Debug-iphoneos/YouTubeProject.app/YouTubeProject
+s345083925.782358
+e345083926.085368
+r1
+xGenerateDSYMFile
+x/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/Debug-iphoneos/YouTubeProject.app.dSYM
+x/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/Debug-iphoneos/YouTubeProject.app/YouTubeProject
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Generating /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/Debug-iphoneos/YouTubeProject.app.dSYM3e5ec8159091b441^29e915169091b441^---0#0#0#-19%DVTDocumentLocation2@122"file://localhost/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/Debug-iphoneos/YouTubeProject.app.dSYM/0000000000000000^566"GenerateDSYMFile build/Debug-iphoneos/YouTubeProject.app.dSYM build/Debug-iphoneos/YouTubeProject.app/YouTubeProject    cd /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/Debug-iphoneos/YouTubeProject.app/YouTubeProject -o /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/Debug-iphoneos/YouTubeProject.app.dSYM36"9729E514-59D2-434E-BE49-2D6883EA500E-
+
+CLd /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/Debug-iphoneos/YouTubeProject.app/YouTubeProject normal armv7
+s345083923.988331
+e345083925.780886
+r1
+xLd
+x/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/Debug-iphoneos/YouTubeProject.app/YouTubeProject
+xnormal
+xarmv7
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Link /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/Debug-iphoneos/YouTubeProject.app/YouTubeProjectd21cfd139091b441^c8edc7159091b441^---0#0#0#--1114"Ld build/Debug-iphoneos/YouTubeProject.app/YouTubeProject normal armv7    cd /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -L/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/Debug-iphoneos -F/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/Debug-iphoneos -filelist /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/Objects-normal/armv7/YouTubeProject.LinkFileList -dead_strip -miphoneos-version-min=5.0 -framework Foundation -framework UIKit -framework CoreGraphics -framework MediaPlayer -framework SystemConfiguration -framework AVFoundation -o /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/Debug-iphoneos/YouTubeProject.app/YouTubeProject36"B9B005C1-93F3-4C1C-AAEB-9B03A36E70D1-
+
+CProcessInfoPlistFile /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/Debug-iphoneos/YouTubeProject.app/Info.plist YouTubeProject-Info.plist
+r0
+
+CProcessPCH /Users/ryannewsome/Library/Developer/Xcode/DerivedData/YouTubeProject-gzqsloqfhdluksddjmeltudjvrss/Index/PrecompiledHeaders/YouTubeProject_Prefix-czgwhmbwcrgjtzcspulgnyycaiob_ast/YouTubeProject_Prefix.pch.pth YouTubeProject_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/yC/yCxT8PvWF0yd73b-JmCFbk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/YouTubeProject_Prefix-favylrpockfimjftejqeglvtmxsu/YouTubeProject_Prefix.pch.pth YouTubeProject_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s345083918.194147
+e345083922.647707
+r1
+xProcessPCH
+x/var/folders/yC/yCxT8PvWF0yd73b-JmCFbk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/YouTubeProject_Prefix-favylrpockfimjftejqeglvtmxsu/YouTubeProject_Prefix.pch.pth
+xYouTubeProject_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Precompile YouTubeProject_Prefix.pch91d5310e9091b441^31d0a5129091b441^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/YouTubeProject_Prefix.pch0000000000000000^2821"ProcessPCH /var/folders/yC/yCxT8PvWF0yd73b-JmCFbk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/YouTubeProject_Prefix-favylrpockfimjftejqeglvtmxsu/YouTubeProject_Prefix.pch.pth YouTubeProject_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -fvisibility=hidden -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/YouTubeProject-generated-files.hmap -I/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/YouTubeProject-own-target-headers.hmap -I/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/YouTubeProject-all-target-headers.hmap -iquote /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/YouTubeProject-project-headers.hmap -I/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/Debug-iphoneos/include -I/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/DerivedSources/armv7 -I/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/DerivedSources -F/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/Debug-iphoneos -c /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/YouTubeProject_Prefix.pch -o /var/folders/yC/yCxT8PvWF0yd73b-JmCFbk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/YouTubeProject_Prefix-favylrpockfimjftejqeglvtmxsu/YouTubeProject_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/yC/yCxT8PvWF0yd73b-JmCFbk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/YouTubeProject_Prefix-favylrpockfimjftejqeglvtmxsu/YouTubeProject_Prefix.pch.d36"159FC6EE-C151-4460-A91C-B5AF3B65E2CE-
+
+CProcessProductPackaging "/Users/ryannewsome/Library/MobileDevice/Provisioning Profiles/71973703-0265-4290-9421-786A4199E74B.mobileprovision" /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/Debug-iphoneos/YouTubeProject.app/embedded.mobileprovision
+r0
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/Entitlements.plist /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/YouTubeProject.build/Debug-iphoneos/YouTubeProject.build/YouTubeProject.xcent
+r0
+
+CTouch /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/Debug-iphoneos/YouTubeProject.app
+s345083926.092704
+e345083926.124306
+r1
+xTouch
+x/Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/Debug-iphoneos/YouTubeProject.app
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Touch /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/Debug-iphoneos/YouTubeProject.app35d117169091b441^74d21f169091b441^---0#0#0#--361"Touch build/Debug-iphoneos/YouTubeProject.app    cd /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/james.nguyen/Documents/gitrepos/iOS.YouTubeController/build/Debug-iphoneos/YouTubeProject.app36"981359F3-410E-460E-B812-EA9B9C8182A1-
+
